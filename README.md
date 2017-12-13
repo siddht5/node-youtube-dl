@@ -1,5 +1,7 @@
 # youtube-dl
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/siddht5/node-youtube-dl.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/przemyslawpluta/node-youtube-dl.svg?branch=master)](https://travis-ci.org/przemyslawpluta/node-youtube-dl) [![npm version](https://badge.fury.io/js/youtube-dl.svg)](https://badge.fury.io/js/youtube-dl) [![Dependency Status](https://gemnasium.com/przemyslawpluta/node-youtube-dl.svg)](https://gemnasium.com/przemyslawpluta/node-youtube-dl)
 
 Download videos from youtube in node.js using [youtube-dl](http://rg3.github.com/youtube-dl/).
