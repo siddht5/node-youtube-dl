@@ -8,3 +8,4 @@ sudo: false # use container based environment
 
 script:
 - node example/audio.js
+- node node/lib/youtube-dl.js
