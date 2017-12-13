@@ -15,23 +15,16 @@
     "contributors": [
        
     ],
-    "main": "./lib/youtube-dl.js",
+  
     "directories": {
-        "lib": "./lib"
+    
     },
     "scripts": {
-        "postinstall": "node ./scripts/download.js",
-        "update": "node ./scripts/download.js",
-        "test": "vows ./test/*.js --spec"
+
     },
     "dependencies": {
-        "hh-mm-ss": "^1.2.0",
-        "mkdirp": "^0.5.1",
-        "request": "^2.83.0",
-        "streamify": "^0.3.0"
+        
     },
-    "devDependencies": {
-        "vows": "*"
-    },
+   
     "license": "MIT"
 }
